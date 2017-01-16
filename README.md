@@ -19,7 +19,7 @@
  - [CloudReader][10] - 使用MVVM-DataBinding开发的仿网易云音乐UI的阅读客户端
  - [LikeCloudMusic][11] - 仿网易云音乐，Material Design风格，基于MVP
  - [remusic][12] - 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
- - [banya] - 一个模仿网易云音乐的豆瓣开源项目[13]
+ - [banya][13] - 一个模仿网易云音乐的豆瓣开源项目
 
 
 #### 部分页面
