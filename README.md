@@ -20,6 +20,7 @@
  - [LikeCloudMusic][11] - 仿网易云音乐，Material Design风格，基于MVP
  - [remusic][12] - 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
  - [banya][13] - 一个模仿网易云音乐的豆瓣开源项目
+ - [Skin-Demo][14] - 仿网易云音乐 换肤实现
 
 
 #### 部分页面
@@ -61,6 +62,7 @@
 [11]:https://github.com/Sbingo/LikeCloudMusic
 [12]:https://github.com/aa112901/remusic
 [13]:https://github.com/forezp/banya
+[14]:https://github.com/ximsfei/Skin-Demo
 
 [100]:https://github.com/youlookwhat/ScrollShapeUI
 [101]:https://github.com/ShonLin/NetEaseProfileDemo
