@@ -21,6 +21,7 @@
  - [remusic][12] - 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
  - [banya][13] - 一个模仿网易云音乐的豆瓣开源项目
  - [Skin-Demo][14] - 仿网易云音乐 换肤实现
+ - [NeteaseCloudDownload][15] - 简约 Android 端网易云音乐下载。
 
 
 #### 部分页面
@@ -49,6 +50,7 @@
 
 ## 附
  - [音乐Api合集][300] - 天天动听Api,酷我音乐Api,网易云音乐Api
+ - [-Api][305] - 「一个」、「Time 时光」、「12306」、「途牛」、「快递100」、「快递」应用 Api
  - [网易云音乐API 分析][303]
  - [网易云音乐Android版使用的开源组件][301]
  - [ Android版网易云音乐唱片机唱片磁盘旋转及唱片机机械臂动画关键代码实现思路][302]
@@ -63,6 +65,7 @@
 [12]:https://github.com/aa112901/remusic
 [13]:https://github.com/forezp/banya
 [14]:https://github.com/ximsfei/Skin-Demo
+[15]:https://github.com/jokermonn/NeteaseCloudDownload
 
 [100]:https://github.com/youlookwhat/ScrollShapeUI
 [101]:https://github.com/ShonLin/NetEaseProfileDemo
@@ -79,6 +82,7 @@
 [302]:http://blog.csdn.net/zhangphil/article/details/52045404?locationNum=14&fps=1
 [303]:http://blog.csdn.net/u013022222/article/details/51707352?locationNum=5&fps=1
 [304]:http://blog.csdn.net/zhuhengv/article/details/50441396?locationNum=4&fps=1
+[305]:https://github.com/jokermonn/-Api
 
 [400]:http://blog.csdn.net/sinat_17775997/article/details/54097836?locationNum=1&fps=1
 
