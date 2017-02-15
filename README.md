@@ -35,6 +35,12 @@
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
+ 
+
+## Python
+ - [NeteaseCloudMusic][700] - 网易云音乐
+ - [dmusic-plugin-NeteaseCloudMusic][701] - NeteaseCloudMusic Plugin for Deepin Music Player 
+ - [NeteaseCloudMusicFlac][702] - 根据网易云音乐的歌单, 下载flac无损音乐到本地.
 
 ## Html5
  - [Html5+Css3实现类似网易云音乐的移动版播放器][500]
@@ -48,10 +54,14 @@
  - [网易云音乐锁屏界面实现][600]
  - [仿网易云音乐的播放进度条][601]
 
-## 附
+## API
  - [音乐Api合集][300] - 天天动听Api,酷我音乐Api,网易云音乐Api
  - [-Api][305] - 「一个」、「Time 时光」、「12306」、「途牛」、「快递100」、「快递」应用 Api
+ - [TencentMusicApi][306] - QQ 音乐 API，PHP 版
+ - [musicAPI][307] - https://github.com/LIU9293/musicAPI
  - [网易云音乐API 分析][303]
+ 
+## 附
  - [网易云音乐Android版使用的开源组件][301]
  - [ Android版网易云音乐唱片机唱片磁盘旋转及唱片机机械臂动画关键代码实现思路][302]
  - [网易云音乐歌单的推荐算法][304]
@@ -83,6 +93,8 @@
 [303]:http://blog.csdn.net/u013022222/article/details/51707352?locationNum=5&fps=1
 [304]:http://blog.csdn.net/zhuhengv/article/details/50441396?locationNum=4&fps=1
 [305]:https://github.com/jokermonn/-Api
+[306]:https://github.com/metowolf/TencentMusicApi
+[307]:https://github.com/LIU9293/musicAPI
 
 [400]:http://blog.csdn.net/sinat_17775997/article/details/54097836?locationNum=1&fps=1
 
@@ -92,3 +104,7 @@
 
 [600]:http://www.jianshu.com/p/d97992c7bad5#
 [601]:http://blog.csdn.net/zhangao0086/article/details/45440381?locationNum=9&fps=1
+
+[700]:https://github.com/yanunon/NeteaseCloudMusic
+[701]:https://github.com/wu-nerd/dmusic-plugin-NeteaseCloudMusic
+[702]:https://github.com/YongHaoWu/NeteaseCloudMusicFlac
