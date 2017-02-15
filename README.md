@@ -35,6 +35,7 @@
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
+ - [Meting-Typecho-Plugin][201] - 在线音乐播放器插件 for typecho 1.0 https://demo.i-meto.com
  
 
 ## Python
@@ -86,6 +87,7 @@
 [106]:http://blog.csdn.net/linshijun33/article/details/47910833?locationNum=13&fps=1
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
+[201]:https://github.com/metowolf/Meting-Typecho-Plugin
 
 [300]:http://www.cnblogs.com/daxiangxm/p/ttpod_music_api.html?utm_source=tuicool&utm_medium=referral
 [301]:http://www.jianshu.com/p/f31ab96a32f3
