@@ -42,11 +42,13 @@
  - [NeteaseCloudMusic][700] - 网易云音乐
  - [dmusic-plugin-NeteaseCloudMusic][701] - NeteaseCloudMusic Plugin for Deepin Music Player 
  - [NeteaseCloudMusicFlac][702] - 根据网易云音乐的歌单, 下载flac无损音乐到本地.
+ - [musicbox][703] - 网易云音乐命令行版本
 
 ## Html5
  - [Html5+Css3实现类似网易云音乐的移动版播放器][500]
  - [网站嵌入网易云音乐播放器][501] - 推荐
  - [关于博客的背景音乐][502] - 上篇的原地址
+ - [NeteaseCloudWebApp][503] - This is a vue for NeteaseCloud projects! http://musicapi.duapp.com/index.html
 
 ## 微信小程序
  - [微信小程序-网易云音乐][400]
@@ -61,6 +63,7 @@
  - [TencentMusicApi][306] - QQ 音乐 API，PHP 版
  - [musicAPI][307] - https://github.com/LIU9293/musicAPI
  - [网易云音乐API 分析][303]
+ - [NeteaseCloudMusicApi][308] - 网易云音乐 WebAPI(C#)
  
 ## 附
  - [网易云音乐Android版使用的开源组件][301]
@@ -97,12 +100,14 @@
 [305]:https://github.com/jokermonn/-Api
 [306]:https://github.com/metowolf/TencentMusicApi
 [307]:https://github.com/LIU9293/musicAPI
+[308]:https://github.com/u3u/NeteaseCloudMusicApi
 
 [400]:http://blog.csdn.net/sinat_17775997/article/details/54097836?locationNum=1&fps=1
 
 [500]:http://blog.csdn.net/petrelselina/article/details/50709693?locationNum=2&fps=1
 [501]:http://blog.csdn.net/phantomes/article/details/52192110
 [502]:http://www.cnblogs.com/yjmyzz/p/listen-to-your-heart.html
+[503]:https://github.com/javaSwing/NeteaseCloudWebApp
 
 [600]:http://www.jianshu.com/p/d97992c7bad5#
 [601]:http://blog.csdn.net/zhangao0086/article/details/45440381?locationNum=9&fps=1
@@ -110,3 +115,4 @@
 [700]:https://github.com/yanunon/NeteaseCloudMusic
 [701]:https://github.com/wu-nerd/dmusic-plugin-NeteaseCloudMusic
 [702]:https://github.com/YongHaoWu/NeteaseCloudMusicFlac
+[703]:https://github.com/darknessomi/musicbox
