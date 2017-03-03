@@ -32,6 +32,7 @@
  - [高仿网易云音乐---之扫描本地歌曲][104]
  - [仿网易云音乐 专辑图片折叠轮播][105] - 更换日历等，供参考
  - [Android ScrollView滚动实现大众点评、网易云音乐评论悬停效果][106]
+ - [自定义控件，防网易云音乐播放震频动画效果][107]
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
@@ -88,6 +89,7 @@
 [104]:http://blog.csdn.net/cml_blog/article/details/51385064
 [105]:http://blog.csdn.net/u010032372/article/details/45649993?locationNum=11&fps=1
 [106]:http://blog.csdn.net/linshijun33/article/details/47910833?locationNum=13&fps=1
+[107]:https://github.com/hongniuniu/MusicAnimView-Android
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
 [201]:https://github.com/metowolf/Meting-Typecho-Plugin
