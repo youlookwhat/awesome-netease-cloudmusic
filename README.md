@@ -22,6 +22,7 @@
  - [banya][13] - 一个模仿网易云音乐的豆瓣开源项目
  - [Skin-Demo][14] - 仿网易云音乐 换肤实现
  - [NeteaseCloudDownload][15] - 简约 Android 端网易云音乐下载。
+ - [music-webcollector][16] - 使用Java的WebCollector爬虫框架采集网易云音乐5亿首歌
 
 
 #### 部分页面
@@ -44,12 +45,14 @@
  - [dmusic-plugin-NeteaseCloudMusic][701] - NeteaseCloudMusic Plugin for Deepin Music Player 
  - [NeteaseCloudMusicFlac][702] - 根据网易云音乐的歌单, 下载flac无损音乐到本地.
  - [musicbox][703] - 网易云音乐命令行版本
+ - [music-163][704] - 爬取网易云音乐所有歌曲的评论
 
 ## Html5
  - [Html5+Css3实现类似网易云音乐的移动版播放器][500]
  - [网站嵌入网易云音乐播放器][501] - 推荐
  - [关于博客的背景音乐][502] - 上篇的原地址
  - [NeteaseCloudWebApp][503] - This is a vue for NeteaseCloud projects! http://musicapi.duapp.com/index.html
+
 
 ## 微信小程序
  - [微信小程序-网易云音乐][400]
@@ -81,6 +84,7 @@
 [13]:https://github.com/forezp/banya
 [14]:https://github.com/ximsfei/Skin-Demo
 [15]:https://github.com/jokermonn/NeteaseCloudDownload
+[16]:https://github.com/scienceswork/music-webcollector
 
 [100]:https://github.com/youlookwhat/ScrollShapeUI
 [101]:https://github.com/ShonLin/NetEaseProfileDemo
@@ -118,3 +122,4 @@
 [701]:https://github.com/wu-nerd/dmusic-plugin-NeteaseCloudMusic
 [702]:https://github.com/YongHaoWu/NeteaseCloudMusicFlac
 [703]:https://github.com/darknessomi/musicbox
+[704]:https://github.com/RitterHou/music-163
