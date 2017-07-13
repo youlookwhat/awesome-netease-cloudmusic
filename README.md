@@ -35,6 +35,7 @@
  - [Android ScrollView滚动实现大众点评、网易云音乐评论悬停效果][106]
  - [自定义控件，防网易云音乐播放震频动画效果][107]
  - [仿网易云音乐搜索页 - SearchView][108]
+ - [仿网易云音乐听歌识曲][109]
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
@@ -96,6 +97,7 @@
 [106]:http://blog.csdn.net/linshijun33/article/details/47910833?locationNum=13&fps=1
 [107]:https://github.com/hongniuniu/MusicAnimView-Android
 [108]:http://www.jianshu.com/p/7c1e78e91506
+[109]:http://www.jianshu.com/p/e8e562c29920
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
 [201]:https://github.com/metowolf/Meting-Typecho-Plugin
