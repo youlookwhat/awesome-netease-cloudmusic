@@ -37,6 +37,7 @@
  - [仿网易云音乐搜索页 - SearchView][108]
  - [仿网易云音乐听歌识曲][109]
  - [仿网易云音乐列表字母索引条][110]
+ - [安卓仿网易云音乐通知栏控制音乐][111]
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
@@ -100,6 +101,7 @@
 [108]:http://www.jianshu.com/p/7c1e78e91506
 [109]:http://www.jianshu.com/p/e8e562c29920
 [110]:http://www.jianshu.com/p/dc8f8ea489b0
+[111]:http://www.jianshu.com/p/77da5abd3870
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
 [201]:https://github.com/metowolf/Meting-Typecho-Plugin
