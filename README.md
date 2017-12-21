@@ -50,6 +50,7 @@
  - [NeteaseCloudMusicFlac][702] - 根据网易云音乐的歌单, 下载flac无损音乐到本地.
  - [musicbox][703] - 网易云音乐命令行版本
  - [music-163][704] - 爬取网易云音乐所有歌曲的评论
+ - [ncmbot][705] - 网易云音乐 Python 组件库
 
 ## Html5
  - [Html5+Css3实现类似网易云音乐的移动版播放器][500]
@@ -131,3 +132,4 @@
 [702]:https://github.com/YongHaoWu/NeteaseCloudMusicFlac
 [703]:https://github.com/darknessomi/musicbox
 [704]:https://github.com/RitterHou/music-163
+[705]:https://github.com/xiyouMc/ncmbot
