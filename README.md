@@ -73,6 +73,8 @@
  - [musicAPI][307] - https://github.com/LIU9293/musicAPI
  - [网易云音乐API 分析][303]
  - [NeteaseCloudMusicApi][308] - 网易云音乐 WebAPI(C#)
+ - [CloudMusicApi][309] - 网易云音乐API接口获取和分析
+ - [netmusic-api][310] - netmusic-api collected
  
 ## 附
  - [网易云音乐Android版使用的开源组件][301]
@@ -116,6 +118,8 @@
 [306]:https://github.com/metowolf/TencentMusicApi
 [307]:https://github.com/LIU9293/musicAPI
 [308]:https://github.com/u3u/NeteaseCloudMusicApi
+[309]:https://github.com/MiChongGET/CloudMusicApi
+[310]:https://github.com/poetries/netmusic-api
 
 [400]:http://blog.csdn.net/sinat_17775997/article/details/54097836?locationNum=1&fps=1
 
