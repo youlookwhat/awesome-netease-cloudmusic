@@ -26,7 +26,7 @@
 <!--图片链接 依次对应-->
 [101]:https://github.com/sangmingming/Android-StickyNavLayout/blob/master/sc.gif?raw=true
 [102]:https://img-blog.csdn.net/20160523110212030?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast
-[103]:https://github.com/hexianqiao3755/GoodsInfoPage/blob/master/demo.gif?raw=true
+[103]:https://github.com/hexianqiao3755/GoodsInfoPage/raw/master/art/demo.gif
 [104]:https://github.com/xmuSistone/stickyViewpager/blob/master/gif01.gif?raw=true
 [105]:https://github.com/xmuSistone/VerticalSlideFragment/blob/master/capture.gif?raw=true
 [106]:https://upload-images.jianshu.io/upload_images/1354448-77ba8fe85699b899.gif?imageMogr2/auto-orient/strip
