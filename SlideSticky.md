@@ -6,6 +6,9 @@
 | [StickyHeaderListView][10] | 打造炫酷列表之 StickyHeaderListView：标题渐变、吸附悬浮、筛选分类、动态头部等 | ![][110]|
 | [stickyViewpager][4] | [deprecated] sticky view in viewpager which includes scrollview and listview - viewpager with headers | ![][104]|
 | [Stickheaderlayout][11] | 滑动置顶，可拓展性强，唯一的缺点是不可一次推上去 | ![][111]|
+| [StickViewLayout][12] | 仿原京东商品详情页，上拉Tab置顶，可查看图文详情，参数详情，商品评论。 | ![][112]|
+| [StickyHeaderViewPager][13] | An Android library supports sticking the navigator on the top when ItemView scrolls in Viewpager. | ![][113]|
+| [ScrollableLayout][14] | Add a headview for any view and supports sticking the navigator on the top when ItemView scrolls. | ![][114]|
 | [ParallaxHeaderViewPager][6] | Scrollable fragments within a viewpager that allows for parallax image and sticky bar effects | ![][106]|
 | [appbarlayout-spring-behavior][7] | One Behavior help AppBarLayout to scroll spring and with fling fix app bar | ![][107]|
 | [StickScrollView][9] | 仿饿了么滑动置顶双列表联动 | ![][109]|
@@ -25,6 +28,9 @@
 [9]:https://github.com/WelliJohn/StickScrollView
 [10]:https://github.com/sfsheng0322/StickyHeaderListView
 [11]:https://github.com/yang747046912/Stickheaderlayout
+[12]:https://github.com/youlookwhat/StickViewLayout
+[13]:https://github.com/w446108264/StickyHeaderViewPager
+[14]:https://github.com/w446108264/ScrollableLayout
 
 <!--图片链接 依次对应-->
 [101]:https://github.com/sangmingming/Android-StickyNavLayout/blob/master/sc.gif?raw=true
@@ -38,4 +44,7 @@
 [109]:https://github.com/WelliJohn/StickScrollView/raw/master/imgs/%E4%BB%BF%E9%A5%BF%E4%BA%86%E4%B9%88%E5%88%97%E8%A1%A8%E9%A1%B5.gif?raw=true
 [110]:https://github.com/sfsheng0322/StickyHeaderListView/raw/master/resources/stickyheader.gif
 [111]:https://raw.githubusercontent.com/yang747046912/Stickheaderlayout/master/image/pp.gif
+[112]:https://github.com/youlookwhat/StickViewLayout/raw/master/sample.gif?raw=true
+[113]:https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif
+[114]:https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif
 
