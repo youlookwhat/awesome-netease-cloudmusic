@@ -1,3 +1,6 @@
+
+> [滑动置顶解决方案开源汇总](https://github.com/youlookwhat/awesome-netease-cloudmusic/blob/master/SlideSticky.md)
+
 # awesome-netease-cloudmusic
 
 这里搜集仿网易云音乐开源的一切，包括开源项目，部分页面，类似效果库等。
@@ -11,7 +14,6 @@
 
 - 提交的项目格式如下：
  - 项目名称：XXXXX
- - 子标题: XXXXX
  - 相关介绍: XXXXXX
 
 ## Android
