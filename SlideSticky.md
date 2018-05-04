@@ -8,8 +8,6 @@
 | [ParallaxHeaderViewPager][6] | Scrollable fragments within a viewpager that allows for parallax image and sticky bar effects | ![][106]|
 | [appbarlayout-spring-behavior][7] | One Behavior help AppBarLayout to scroll spring and with fling fix app bar | ![][107]|
 | [StickScrollView][9] | 仿饿了么滑动置顶双列表联动 | ![][109]|
-
-
 | [GoodsInfoPage][3] | 仿京东、天猫app的商品详情页的布局架构, 以及功能实现 | ![][103]|
 | [DoubleScrollVIew][8] | android仿京东、淘宝商品详情页上拉查看详情 | ![][108]|
 | [VerticalSlideFragment][5] | vertical slide to switch to the next fragment page, looks like vertical viewpager | ![][105]|
