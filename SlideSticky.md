@@ -9,6 +9,7 @@
 | [StickViewLayout][12] | 仿原京东商品详情页，上拉Tab置顶，可查看图文详情，参数详情，商品评论。 | ![][112]|
 | [StickyHeaderViewPager][13] | An Android library supports sticking the navigator on the top when ItemView scrolls in Viewpager. | ![][113]|
 | [ScrollableLayout][14] | Add a headview for any view and supports sticking the navigator on the top when ItemView scrolls. | ![][114]|
+| [TouchEventBus][15] | 一种处理嵌套和非嵌套滑动冲突的解决方案 | ![][115]|
 | [ParallaxHeaderViewPager][6] | Scrollable fragments within a viewpager that allows for parallax image and sticky bar effects | ![][106]|
 | [appbarlayout-spring-behavior][7] | One Behavior help AppBarLayout to scroll spring and with fling fix app bar | ![][107]|
 | [StickScrollView][9] | 仿饿了么滑动置顶双列表联动 | ![][109]|
@@ -31,6 +32,7 @@
 [12]:https://github.com/youlookwhat/StickViewLayout
 [13]:https://github.com/w446108264/StickyHeaderViewPager
 [14]:https://github.com/w446108264/ScrollableLayout
+[15]:https://github.com/YvesCheung/TouchEventBus/blob/master/README_NESTEDSCROLL.md
 
 <!--图片链接 依次对应-->
 [101]:https://github.com/sangmingming/Android-StickyNavLayout/blob/master/sc.gif?raw=true
@@ -47,4 +49,5 @@
 [112]:https://github.com/youlookwhat/StickViewLayout/raw/master/sample.gif?raw=true
 [113]:https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif
 [114]:https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif
+[115]:https://raw.githubusercontent.com/YvesCheung/TouchEventBus/master/img/nestedScrollPreview.gif
 
