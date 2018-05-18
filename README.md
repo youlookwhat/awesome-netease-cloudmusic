@@ -60,6 +60,7 @@
  - [网站嵌入网易云音乐播放器][501] - 推荐
  - [关于博客的背景音乐][502] - 上篇的原地址
  - [NeteaseCloudWebApp][503] - This is a vue for NeteaseCloud projects! http://musicapi.duapp.com/index.html
+ - [一款基于Vue 全家桶制作的移动端音乐 WebApp][504] - 基于 Vue(2.5) + vuex + vue-router + vue-axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp
 
 
 ## 微信小程序
@@ -131,6 +132,7 @@
 [501]:http://blog.csdn.net/phantomes/article/details/52192110
 [502]:http://www.cnblogs.com/yjmyzz/p/listen-to-your-heart.html
 [503]:https://github.com/javaSwing/NeteaseCloudWebApp
+[504]:https://github.com/CaiJinyc/vue-music-webapp
 
 [600]:http://www.jianshu.com/p/d97992c7bad5#
 [601]:http://blog.csdn.net/zhangao0086/article/details/45440381?locationNum=9&fps=1
