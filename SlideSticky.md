@@ -16,6 +16,7 @@
 | [GoodsInfoPage][3] | 仿京东、天猫app的商品详情页的布局架构, 以及功能实现 | ![][103]|
 | [DoubleScrollVIew][8] | android仿京东、淘宝商品详情页上拉查看详情 | ![][108]|
 | [VerticalSlideFragment][5] | vertical slide to switch to the next fragment page, looks like vertical viewpager | ![][105]|
+| [CoordinatorTabLayout][16] | Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件 | ![][116]|
 
 <!--项目链接-->
 [1]:https://github.com/sangmingming/Android-StickyNavLayout
@@ -50,4 +51,5 @@
 [113]:https://github.com/w446108264/StickyHeaderViewPager/raw/master/output/big.gif
 [114]:https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif
 [115]:https://raw.githubusercontent.com/YvesCheung/TouchEventBus/master/img/nestedScrollPreview.gif
+[116]:https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif
 
