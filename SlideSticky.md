@@ -17,6 +17,7 @@
 | [DoubleScrollVIew][8] | android仿京东、淘宝商品详情页上拉查看详情 | ![][108]|
 | [VerticalSlideFragment][5] | vertical slide to switch to the next fragment page, looks like vertical viewpager | ![][105]|
 | [CoordinatorTabLayout][16] | Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件 | ![][116]|
+| [behavior-learn(Kotlin)][17] | CoordinatorLayout 自定义Behavior 高仿美团商家详情界面 实现页面内容复杂联动效果 | ![][117]|
 
 <!--项目链接-->
 [1]:https://github.com/sangmingming/Android-StickyNavLayout
@@ -35,6 +36,7 @@
 [14]:https://github.com/w446108264/ScrollableLayout
 [15]:https://github.com/YvesCheung/TouchEventBus/blob/master/README_NESTEDSCROLL.md
 [16]:https://github.com/hugeterry/CoordinatorTabLayout
+[17]:https://github.com/iielse/behavior-learn
 
 <!--图片链接 依次对应-->
 [101]:https://github.com/sangmingming/Android-StickyNavLayout/blob/master/sc.gif?raw=true
@@ -53,4 +55,5 @@
 [114]:https://github.com/w446108264/ScrollableLayout/raw/master/output/show.gif
 [115]:https://raw.githubusercontent.com/YvesCheung/TouchEventBus/master/img/nestedScrollPreview.gif
 [116]:https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif
+[117]:https://github.com/iielse/behavior-learn/raw/master/preview2.gif
 
