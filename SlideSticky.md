@@ -18,6 +18,8 @@
 | [VerticalSlideFragment][5] | vertical slide to switch to the next fragment page, looks like vertical viewpager | ![][105]|
 | [CoordinatorTabLayout][16] | Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件 | ![][116]|
 | [behavior-learn(Kotlin)][17] | CoordinatorLayout 自定义Behavior 高仿美团商家详情界面 实现页面内容复杂联动效果 | ![][117]|
+| [MultiScrollDemo][18] | 使用NestedScrollView+ViewPager+RecyclerView+SmartRefreshLayout打造酷炫下拉视差效果并解决各种滑动冲突 | ![][118]|
+| [StickLayout][19] | 使用嵌套实现ViewPager和header的联动效果 | ![][119]|
 
 <!--项目链接-->
 [1]:https://github.com/sangmingming/Android-StickyNavLayout
@@ -37,6 +39,8 @@
 [15]:https://github.com/YvesCheung/TouchEventBus/blob/master/README_NESTEDSCROLL.md
 [16]:https://github.com/hugeterry/CoordinatorTabLayout
 [17]:https://github.com/iielse/behavior-learn
+[18]:https://github.com/SiberiaDante/MultiScrollDemo
+[19]:https://juejin.im/entry/5b1f2bb7f265da6e02460812
 
 <!--图片链接 依次对应-->
 [101]:https://github.com/sangmingming/Android-StickyNavLayout/blob/master/sc.gif?raw=true
@@ -56,4 +60,5 @@
 [115]:https://raw.githubusercontent.com/YvesCheung/TouchEventBus/master/img/nestedScrollPreview.gif
 [116]:https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif
 [117]:https://github.com/iielse/behavior-learn/raw/master/preview2.gif
-
+[118]:https://github.com/SiberiaDante/MultiScrollDemo/raw/master/assets/GIF.gif
+[119]:https://user-gold-cdn.xitu.io/2018/6/12/163f1c3ca4c4f60b?imageslim
