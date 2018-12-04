@@ -40,7 +40,8 @@
  - [仿网易云音乐听歌识曲][109]
  - [仿网易云音乐列表字母索引条][110]
  - [安卓仿网易云音乐通知栏控制音乐][111]
- - [WangyiyunBottomSheetDialog][112] - 网易云音乐效果的-BottomSheetDialog
+ - [网易云音乐效果的-BottomSheetDialog][112]
+ - [Android粒子特效--网易云鲸云特效][113]
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
@@ -110,6 +111,7 @@
 [110]:http://www.jianshu.com/p/dc8f8ea489b0
 [111]:http://www.jianshu.com/p/77da5abd3870
 [112]:https://github.com/af913337456/WangyiyunBottomSheetDialog
+[113]:https://github.com/tyhjh/Jinyuneffect
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
 [201]:https://github.com/metowolf/Meting-Typecho-Plugin
