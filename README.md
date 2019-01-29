@@ -71,6 +71,9 @@
  - [网易云音乐锁屏界面实现][600]
  - [仿网易云音乐的播放进度条][601]
 
+## Flutter
+ - [Flutter仿网易云音乐：播放界面][800]
+
 ## API
  - [音乐Api合集][300] - 天天动听Api,酷我音乐Api,网易云音乐Api
  - [-Api][305] - 「一个」、「Time 时光」、「12306」、「途牛」、「快递100」、「快递」应用 Api
@@ -145,3 +148,5 @@
 [703]:https://github.com/darknessomi/musicbox
 [704]:https://github.com/RitterHou/music-163
 [705]:https://github.com/xiyouMc/ncmbot
+
+[800]:https://juejin.im/post/5c344d1ee51d4557db5a0140
