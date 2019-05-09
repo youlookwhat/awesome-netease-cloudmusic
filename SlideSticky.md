@@ -1,4 +1,7 @@
 ## 滑动置顶解决方案
+
+> 此贴基本可以终结，使用新的Android Design Support Library中的 CoordinatorLayout可以完美实现这个功能，云阅已经实现这个效果，具体见页面：[CategoryDetailActivity](https://github.com/youlookwhat/CloudReader/blob/master/app/src/main/java/com/example/jingbin/cloudreader/ui/wan/child/CategoryDetailActivity.java)
+
 | 项目 |介绍|预览|
 | -------- |:--:|:--:|
 | [Android-StickyNavLayout][1] | An android library for navigator that stick on the top | ![][101]|
