@@ -73,6 +73,7 @@
 
 ## Flutter
  - [Flutter仿网易云音乐：播放界面][800]
+ - [flutter music player application （仿网易云音乐）][801]
 
 ## API
  - [音乐Api合集][300] - 天天动听Api,酷我音乐Api,网易云音乐Api
@@ -150,3 +151,4 @@
 [705]:https://github.com/xiyouMc/ncmbot
 
 [800]:https://juejin.im/post/5c344d1ee51d4557db5a0140
+[801]:https://github.com/boyan01/flutter-netease-music
