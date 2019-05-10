@@ -25,6 +25,7 @@
  - [Skin-Demo][14] - 仿网易云音乐 换肤实现
  - [NeteaseCloudDownload][15] - 简约 Android 端网易云音乐下载。
  - [music-webcollector][16] - 使用Java的WebCollector爬虫框架采集网易云音乐5亿首歌
+ - [ponymusic][17] - Android online music player use okhttp&gson&material design
 
 
 #### 部分页面
@@ -101,6 +102,7 @@
 [14]:https://github.com/ximsfei/Skin-Demo
 [15]:https://github.com/jokermonn/NeteaseCloudDownload
 [16]:https://github.com/scienceswork/music-webcollector
+[17]:https://github.com/wangchenyan/ponymusic
 
 [100]:https://github.com/youlookwhat/ScrollShapeUI
 [101]:https://github.com/ShonLin/NetEaseProfileDemo
