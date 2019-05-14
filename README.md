@@ -57,12 +57,13 @@
  - [music-163][704] - 爬取网易云音乐所有歌曲的评论
  - [ncmbot][705] - 网易云音乐 Python 组件库
 
-## Html5
+## Html
  - [Html5+Css3实现类似网易云音乐的移动版播放器][500]
  - [网站嵌入网易云音乐播放器][501] - 推荐
  - [关于博客的背景音乐][502] - 上篇的原地址
  - [NeteaseCloudWebApp][503] - This is a vue for NeteaseCloud projects! http://musicapi.duapp.com/index.html
  - [一款基于Vue 全家桶制作的移动端音乐 WebApp][504] - 基于 Vue(2.5) + vuex + vue-router + vue-axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp
+ - [react-player-music-PC][505] - 基于React全家桶开发的PC端音乐播放器
 
 
 ## 微信小程序
@@ -141,6 +142,7 @@
 [502]:http://www.cnblogs.com/yjmyzz/p/listen-to-your-heart.html
 [503]:https://github.com/javaSwing/NeteaseCloudWebApp
 [504]:https://github.com/CaiJinyc/vue-music-webapp
+[505]:https://github.com/jiudehuiyi/react-player-music-PC
 
 [600]:http://www.jianshu.com/p/d97992c7bad5#
 [601]:http://blog.csdn.net/zhangao0086/article/details/45440381?locationNum=9&fps=1
