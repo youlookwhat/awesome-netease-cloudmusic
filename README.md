@@ -123,6 +123,7 @@
 [111]:http://www.jianshu.com/p/77da5abd3870
 [112]:https://github.com/af913337456/WangyiyunBottomSheetDialog
 [113]:https://github.com/tyhjh/Jinyuneffect
+[114]:https://github.com/wuyr/LitePager
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
 [201]:https://github.com/metowolf/Meting-Typecho-Plugin
