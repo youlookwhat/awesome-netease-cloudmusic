@@ -43,6 +43,7 @@
  - [安卓仿网易云音乐通知栏控制音乐][111]
  - [网易云音乐效果的-BottomSheetDialog][112]
  - [Android粒子特效--网易云鲸云特效][113]
+ - [LitePager][114] - LitePager，一个轻量级的ViewPager，仿新版网易云歌单广场
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
