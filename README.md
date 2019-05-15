@@ -67,6 +67,10 @@
  - [react-player-music-PC][505] - 基于React全家桶开发的PC端音乐播放器
 
 
+## JavaScript
+ - [Glee][50] - 也是个网易云第三方😶
+ - [UnblockNeteaseMusic][51] - Revive unavailable songs for Netease Cloud Music
+
 ## 微信小程序
  - [微信小程序-网易云音乐][400]
 
@@ -78,7 +82,7 @@
  - [Flutter仿网易云音乐：播放界面][800]
  - [flutter music player application （仿网易云音乐）][801]
 
-## C
+## Xamarin
  - [Xamarin-CloudMusic][900] - Xamarin.Forms goodlooking UI sample
 
 ## API
@@ -108,6 +112,9 @@
 [15]:https://github.com/jokermonn/NeteaseCloudDownload
 [16]:https://github.com/scienceswork/music-webcollector
 [17]:https://github.com/wangchenyan/ponymusic
+
+[50]:https://github.com/nondanee/Glee
+[51]:https://github.com/nondanee/UnblockNeteaseMusic
 
 [100]:https://github.com/youlookwhat/ScrollShapeUI
 [101]:https://github.com/ShonLin/NetEaseProfileDemo
