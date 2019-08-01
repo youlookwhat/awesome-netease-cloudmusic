@@ -44,6 +44,7 @@
  - [网易云音乐效果的-BottomSheetDialog][112]
  - [Android粒子特效--网易云鲸云特效][113]
  - [LitePager][114] - LitePager，一个轻量级的ViewPager，仿新版网易云歌单广场
+ - [HeaderLayout][115] - 网易云歌手详情，只需在XML中配置即可实现网易云歌手详情界面的滑动效果
 
 ## PHP版
  - [NeteaseCloudMusicApi][200] - 网易云音乐 API，PHP 版
@@ -131,6 +132,7 @@
 [112]:https://github.com/af913337456/WangyiyunBottomSheetDialog
 [113]:https://github.com/tyhjh/Jinyuneffect
 [114]:https://github.com/wuyr/LitePager
+[115]:https://github.com/imurluck/HeaderLayout
 
 [200]:https://github.com/metowolf/NeteaseCloudMusicApi
 [201]:https://github.com/metowolf/Meting-Typecho-Plugin
