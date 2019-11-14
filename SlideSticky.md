@@ -2,9 +2,9 @@
 
 > 此贴基本可以终结，使用新的Android Design Support Library中的 CoordinatorLayout可以完美实现这个功能，云阅已经实现这个效果，具体见页面：[CategoryDetailActivity](https://github.com/youlookwhat/CloudReader/blob/master/app/src/main/java/com/example/jingbin/cloudreader/ui/wan/child/CategoryDetailActivity.java)
 
-| 项目 |介绍|预览|
-| -------- |:--:|:--:|
-| [Android-StickyNavLayout][1] | An android library for navigator that stick on the top | ![][101]|
+| 项目 |介绍|存在的问题|预览|
+| -------- |:--:|:--:|:--:|
+| [Android-StickyNavLayout][1] | An android library for navigator that stick on the top |往上或下惯性滑动时，都会卡在悬浮布局那里| ![][101]|
 | [NetEaseProfileDemo][2] | 仿照网易云音乐歌手资料页面滑动效果实现的Demo | ![][102]|
 | [StickyHeaderListView][10] | 打造炫酷列表之 StickyHeaderListView：标题渐变、吸附悬浮、筛选分类、动态头部等 | ![][110]|
 | [stickyViewpager][4] | [deprecated] sticky view in viewpager which includes scrollview and listview - viewpager with headers | ![][104]|
