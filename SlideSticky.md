@@ -2,14 +2,14 @@
 
 > 此贴基本可以终结，使用新的Android Design Support Library中的 CoordinatorLayout可以完美实现这个功能，云阅已经实现这个效果，具体见页面：[CategoryDetailActivity](https://github.com/youlookwhat/CloudReader/blob/master/app/src/main/java/com/example/jingbin/cloudreader/ui/wan/child/CategoryDetailActivity.java)
 
-| 项目 |介绍|存在的问题|预览|
-| -------- |:--:|:--:|:--:|
-| [Android-StickyNavLayout][1] | An android library for navigator that stick on the top |往上或下惯性滑动时，都会卡在悬浮布局那里| ![][101]|
+| 项目 |介绍与问题|预览|
+| -------- |:--:|:--:|
+| [Android-StickyNavLayout][1] | An android library for navigator that stick on the top【问题：往上或下惯性滑动时，会卡在悬浮栏那里】 | ![][101]|
 | [NetEaseProfileDemo][2] | 仿照网易云音乐歌手资料页面滑动效果实现的Demo | ![][102]|
 | [StickyHeaderListView][10] | 打造炫酷列表之 StickyHeaderListView：标题渐变、吸附悬浮、筛选分类、动态头部等 | ![][110]|
 | [stickyViewpager][4] | [deprecated] sticky view in viewpager which includes scrollview and listview - viewpager with headers | ![][104]|
 | [Stickheaderlayout][11] | 滑动置顶，可拓展性强，唯一的缺点是不可一次推上去 | ![][111]|
-| [StickViewLayout][12] | 仿原京东商品详情页，上拉Tab置顶，可查看图文详情，参数详情，商品评论。 | ![][112]|
+| [StickViewLayout][12] | 仿原京东商品详情页，上拉Tab置顶，可查看图文详情，参数详情，商品评论。【问题：1.每次切换都会回到最顶端，2.当其中一个view的内容没有占满全屏，悬浮栏会下移】 | ![][112]|
 | [StickyHeaderViewPager][13] | An Android library supports sticking the navigator on the top when ItemView scrolls in Viewpager. | ![][113]|
 | [ScrollableLayout][14] | Add a headview for any view and supports sticking the navigator on the top when ItemView scrolls. | ![][114]|
 | [TouchEventBus][15] | 一种处理嵌套和非嵌套滑动冲突的解决方案 | ![][115]|
