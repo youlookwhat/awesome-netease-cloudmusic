@@ -67,6 +67,7 @@
  - [一款基于Vue 全家桶制作的移动端音乐 WebApp][504] - 基于 Vue(2.5) + vuex + vue-router + vue-axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp
  - [react-player-music-PC][505] - 基于React全家桶开发的PC端音乐播放器
  - [vue-music][506] -cloud-music(网易云音乐)
+ - [simple-cloud-music](507) - 简洁的的第三方网易云音乐播放器
 
 ## JavaScript
  - [Glee][50] - 也是个网易云第三方😶
@@ -158,6 +159,7 @@
 [504]:https://github.com/CaiJinyc/vue-music-webapp
 [505]:https://github.com/jiudehuiyi/react-player-music-PC
 [506]:https://github.com/ddqre12345/vue-music
+[507]:https://github.com/dufu1991/simple-cloud-music
 
 [600]:http://www.jianshu.com/p/d97992c7bad5#
 [601]:http://blog.csdn.net/zhangao0086/article/details/45440381?locationNum=9&fps=1
